@@ -1,0 +1,5 @@
+body{margin:0;background:#000;color:#fff;font-family:Arial}
+header{position:fixed;top:0;width:100%;padding:15px;background:rgba(0,0,0,0.6)}
+canvas{display:block}
+.ui{position:fixed;bottom:20px;left:50%;transform:translateX(-50%)}
+button{margin:5px;padding:10px;border:none;background:#ff004c;color:#fff;border-radius:10px}
